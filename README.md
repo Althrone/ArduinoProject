@@ -10,3 +10,4 @@ VSCode不说了，最强IDE(雾。
 AVR-GCC支持ATMEL芯片的编译。[Windows环境下的AVR-GCC下载连接](https://blog.zakkemble.net/avr-gcc-builds/)`←鼠标中键点击以打开新窗口`
 
 $$ x+2-3*4/6=4/y + x\cdot y $$
+$$\sqrt{x} + \sqrt{x^{2}+\sqrt{y}} = \sqrt[3]{k_{i}} - \frac{x}{m}$$
